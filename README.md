@@ -1,2 +1,1 @@
-My First readme
-I just Updated My README.md 
+I just Updated My README.md  via GITHUB
